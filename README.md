@@ -67,30 +67,6 @@ git config --global user.email email@codejr.com.br
 
 
 
-### Quando estiver tudo prontinho *(com autorização do SCRUM Master)*
-
-* Volte para a main: `git checkout main`
-
-* Atualize a main: `git pull`
-
-* Volte para a sua branch: `git checkout nomedabranch`
-
-* Mescle a main com a sua branch : `git merge main`
-
-* Corrija os possíveis conflitos
-
-* Confirme o merge (apenas quando solicitado pelo Scrum Master): `git push origin suabranch`
-
-* Espera a confirmação do seu SCRUM
-
-* Volte para a main: `git checkout main`
-
-* Mescle a main com as alterações enviadas para sua branch (apenas quando solicitado pelo Scrum Master): `git merge suabranch`
-
-* Confirme o merge (apenas quando solicitado pelo Scrum Master): `git push origin main`
-
-
-
 ### Comandos Básicos
 
 * Para atualizar a main: `git pull`
@@ -105,6 +81,4 @@ git config --global user.email email@codejr.com.br
 
 * Adicionar alteração específica: `git add arquivo-especifico`
 
-* Para mesclar sua branch com a main (estando dentro da sua branch): `git merge main`
-
-* Para confirmar o merge: `git push origin suabranch`
+* Para enviar suas alterações para o repositório: `git push origin suabranch`
