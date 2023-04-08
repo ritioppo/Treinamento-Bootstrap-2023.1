@@ -6,7 +6,7 @@
 
 #### Desenvolvedores:
 
-* Arthur Riccioppo
+* Arthur Riccioppo Oliveira
 * Isabelly Oliveira
 
 
