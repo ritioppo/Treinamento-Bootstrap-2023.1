@@ -1,6 +1,6 @@
 # **Trainee 2023.1**
 
-# **Blog da Alice, em As Loucuras do País das Maravilhas**
+# **Blog da Rainha de Copas, de Alice no País das Maravilhas**
 
 ## **Treinamento de Bootstrap**
 
@@ -17,7 +17,7 @@
 
 * Blog / Sistema de treinamento e capacitação dos Trainees da CodeJR, na gestão 2023.1;
 * Possuirá Front-End em HTML, CSS, JavaScript, tendo sua principal base no freamwork Bootstrap;
-* Desenvolveremos o Front-End de uma página tematizada com Alice no País das Maravilhas, denominada Blog da Alice, um blog voltado para as loucuras do País das Maravilhas.
+* Desenvolveremos o Front-End de uma página tematizada com Alice no País das Maravilhas, denominada Blog da Rainha de Copas, um blog voltado para as loucuras do País das Maravilhas.
 
 
 
