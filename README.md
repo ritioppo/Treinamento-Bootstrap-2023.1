@@ -1,20 +1,13 @@
-# **Trainee 2022.2**
+# **Trainee 2023.1**
 
-# **Nome do Blog**
+# **Blog da Alice, em As Loucuras do País das Maravilhas**
 
-## **Projeto Trainee, Code Jr, Grupo ?, 2022.2**
+## **Treinamento de Bootstrap**
 
 #### Desenvolvedores:
 
-*
-*
-*
-*
-*
-
-#### Scrum Master:
-
-* [Nome do Scrum](https://github.com/...).
+* Arthur Riccioppo
+* Isabelly Oliveira
 
 
 
@@ -22,8 +15,9 @@
 
 ## Descrição do Projeto:
 
-* Blog / Sistema de treinamento e capacitação dos Trainees da CodeJR, na gestão 2022.2;
-* Possuirá Front-End em HTML, CSS, JavaScript, Bootstrap e Back-End em PHP (puro) no padrão MVC, com Banco de Dados MySQL;
+* Blog / Sistema de treinamento e capacitação dos Trainees da CodeJR, na gestão 2023.1;
+* Possuirá Front-End em HTML, CSS, JavaScript, tendo sua principal base no freamwork Bootstrap;
+* Desenvolveremos o Front-End de uma página tematizada com Alice no País das Maravilhas, denominada Blog da Alice, um blog voltado para as loucuras do País das Maravilhas.
 
 
 
