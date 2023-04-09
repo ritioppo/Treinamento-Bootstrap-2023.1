@@ -20,6 +20,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    
 }
 
 .icon-container {
@@ -41,3 +42,18 @@ footer {
     text-decoration: none;
 }
 
+#tela_login.card {
+    background-color: #A90000;
+  }
+
+  .bg-vermelho {
+    background-color: #FF0944;
+  }
+
+  .form-control{
+    color: #8f1313;
+}
+
+label{
+    color: white;
+}
