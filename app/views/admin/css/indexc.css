@@ -4,7 +4,7 @@
     top:50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 1px 5px 30px rgb(195, 195, 195);
+    box-shadow: 10px 10px 60px rgb(14, 14, 14);
 }
 
 body {
@@ -57,3 +57,20 @@ footer {
 label{
     color: white;
 }
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  
+}
+
+
+
+
+  
+  .navbar-brand img {
+    margin: 0 auto;
+    
+  }
